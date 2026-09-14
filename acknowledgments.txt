@@ -1,0 +1,8 @@
+Libraries used: numpy (bandit code and array math), pandas (building and writing
+the TSV files), and matplotlib (histogram of the reward distribution in part 1).
+
+Generative AI: I used Claude Code (Anthropic's command line coding assistant) to help write,
+run, and check the code in this notebook.
+Transcript: [ADD LINK TO YOUR TRANSCRIPT HERE]
+
+No other outside sources or help.
